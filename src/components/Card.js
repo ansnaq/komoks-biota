@@ -21,7 +21,7 @@ class Card extends Component {
 	}
 
 	render() {
-		let photo = "https://raw.githubusercontent.com/ansnaq/canada-national-parks/master/public/photos/" + this.props.data.photo;
+		let photo = "https://raw.githubusercontent.com/ansnaq/komoks-biota/master/public/photos/" + this.props.data.photo;
 		let properties = this.props.data;
 		let latitude = this.props.data.latitude;
 		let longitude = this.props.data.longitude;
