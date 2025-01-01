@@ -1,3 +1,3 @@
 # Komoks Biota
 
-[Demo here](https://ansnaq.github.io/canada-national-parks/)
+[Demo here](https://ansnaq.github.io/komoks-biota/)

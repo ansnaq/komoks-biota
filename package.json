@@ -1,5 +1,5 @@
 {
-  "name": "canada-national-parks",
+  "name": "komoks-biota",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -25,5 +25,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://ansnaq.github.io/canada-national-parks/"
+  "homepage": "https://ansnaq.github.io/komoks-biota/"
 }
